@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Getting Started with Our First New Mocha Selenium Test Script and Executing it on a Local Selenium Setup",
   "scripts": {
-    "test": "./node_modules/.bin/mocha scripts/ --recursive --timeout 100000"
+    "test": "./node_modules/.bin/mocha tests/ --recursive --timeout 100000"
   },
   "author": "rohit",
   "license": "",
