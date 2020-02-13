@@ -1,14 +1,15 @@
 E2E tests boilerplate using node, mocha and chromedriver 
 
+###Requirements:
+https://nodejs.org/en/download/
+
 ###Setup:
 ```
 npm install -g mocha
 npm install -g chromedriver
 npm install
 ```
-download chromedriver and put it in the path:
-
-http://chromedriver.storage.googleapis.com/
+add chromedriver directory to path
 
 ###Config:
 ```
